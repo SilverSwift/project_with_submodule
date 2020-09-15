@@ -1,8 +1,5 @@
 [submodule "sources/sub_folder/submodule_repo"]
 	path = sources/sub_folder/submodule_repo
 	url = https://github.com/SilverSwift/submodule_repo.git
-	branch = v0.1
-[submodule "DbConnector"]
-	branch = v0.1
-[submodule "submodule_repo"]
 	branch = v0.2
+
