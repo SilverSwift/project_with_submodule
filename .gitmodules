@@ -1,5 +1,5 @@
 [submodule "sources/sub_folder/submodule_repo"]
 	path = sources/sub_folder/submodule_repo
 	url = https://github.com/SilverSwift/submodule_repo.git
-	branch = v0.2
+	branch = v0.3
 
